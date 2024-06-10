@@ -1,3 +1,3 @@
-import Konto
+from Konto import *
 
-giro = Konto.Girokonto()
+giro = Girokonto()
